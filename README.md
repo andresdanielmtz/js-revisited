@@ -2,8 +2,9 @@
 
 > Before starting my new internship at Oracle, I would like to revisit key JS concepts. Mostly those closely related to the language such as protocols, object destructure and closures.
 
-Some of the key concepts to visit are as follows: 
+Some of the key concepts to visit are as follows:
 
+- Prototypes
 - Closures
 - Event Loops
 - Callback Functions
