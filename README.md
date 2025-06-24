@@ -11,10 +11,10 @@ Some of the key concepts to visit are as follows:
 - Async/Await and Promises
 - Functional Programming
 - High-Order functions
-- [ ] Generators
-- [ ] Hoisting
-- [ ] IIFEs
-- [ ] Memoization
+- Generators
+- Hoisting
+- IIFEs
+- Memoization
 - Currying
 
 Most (if not all) concepts are visited through [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development).
