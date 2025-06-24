@@ -20,3 +20,6 @@ console.log(first); // [Function (anonymous)]
 const response = first(5)
 
 console.log(response); // 8 
+
+// ES6
+add = a => b => a + b; 
